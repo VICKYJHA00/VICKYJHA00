@@ -1,7 +1,6 @@
 # 💫 About Me:
 # 👋 Hi, I'm Vicky<br><br>🎓 I am a Computer Science student passionate about learning and building things with code.<br>💻 Currently focusing on **Data Structures & Algorithms** and **Web Development**.<br><br>## 🚀 What I'm Learning<br><br>* Data Structures & Algorithms (DSA)<br>* C++<br>* Java<br>* HTML, CSS, JavaScript<br>* React (beginner)<br><br>## 🧠 Interests<br><br>* Competitive Programming<br>* Problem Solving<br>* Open Source<br>* Building useful web applications<br><br>## 🎯 Goals<br><br>* Become a strong software developer<br>* Contribute to open-source projects<br>* Build real-world projects that solve problems<br><br>## 📈 Currently Working On<br><br>* Improving my **DSA problem-solving skills**<br>* Learning **modern web development**<br>* Building projects and sharing them on GitHub<br><br>⭐ Always learning, improving, and exploring new technologies.<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vicky-jha-10598b325/) 
 
