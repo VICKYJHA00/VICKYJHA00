@@ -1,65 +1,65 @@
 # 👋 Hi, I'm Vicky
 
-🎓 Computer Science Student
-💻 Passionate about **Data Structures & Algorithms** and **Web Development**
-🚀 Currently building projects and improving problem-solving skills
+A Computer Science student focused on building strong problem-solving skills and developing practical software solutions.
 
 ---
 
-## 🚀 What I'm Learning
+## 💫 About Me
 
-* Data Structures & Algorithms (DSA)
-* C++
-* Java
-* HTML, CSS, JavaScript
-* React (Beginner)
+- Practicing Data Structures and Algorithms in C++  
+- Building web applications with modern technologies  
+- Exploring backend development using Spring Boot  
+- Focused on writing clean, efficient, and maintainable code  
 
----
-
-## 🧠 Interests
-
-* Competitive Programming
-* Problem Solving
-* Open Source
-* Building useful web applications
+I am interested in understanding systems end-to-end — from solving algorithmic problems to building scalable applications.
 
 ---
 
-## 🎯 Goals
+## 🚀 What I'm Currently Doing
 
-* Become a strong **Software Developer**
-* Contribute to **Open Source**
-* Build **real-world projects**
+- Solving DSA problems regularly  
+- Working on web development projects  
+- Learning backend development with Spring Boot  
 
 ---
 
 ## 🛠 Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+**Languages:**  
+C++, Java, JavaScript  
+
+**Frontend:**  
+HTML, CSS, React  
+
+**Backend:**  
+Spring Boot, Node.js (basic)  
+
+**Tools:**  
+Git, GitHub  
 
 ---
 
-## 🌐 Connect With Me
+## 📂 Featured Work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/vicky-jha-10598b325/)
+- 🔹 Web Projects (React-based applications)  
+- 🔹 DSA Practice Repository (structured problem solving)  
+- 🔹 Backend APIs using Spring Boot  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickyjha00\&show_icons=true\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=vickyjha00&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vickyjha00\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=vickyjha00\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickyjha00&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ *Always learning, building, and improving every day.*
+## 🌐 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/vicky-jha-10598b325/)  
+Email: work.vickyjha@gmail.com  
+
+---
+
+⭐ Building consistently and improving every day.
