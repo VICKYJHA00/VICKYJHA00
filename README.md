@@ -1,65 +1,23 @@
-# 👋 Hi, I'm Vicky
+<!-- 🎛️ BACKEND CORE SYSTEMS ENGINE: TERMINAL INTERFACE -->
+<div align="left">
+  
+  <!-- NATIVE HARDWARE-ACCELERATED PULSE INDICATOR -->
+  <p align="right">
+    <code style="background: rgba(16, 185, 129, 0.1); color: #10B981; border: 1px solid rgba(16, 185, 129, 0.2); padding: 4px 10px; border-radius: 20px; font-family: monospace;">
+      <span style="animation: blink 1.5s infinite; cubic-bezier(0.4, 0, 0.6, 1); margin-right: 6px;">●</span> ENGINE STATUS: ACTIVE
+    </code>
+  </p>
 
-A Computer Science student focused on building strong problem-solving skills and developing practical software solutions.
+  <h1 style="font-family: 'Courier New', Courier, monospace; border-bottom: 2px dashed #242B3D; padding-bottom: 12px; color: #E4E4E7;">
+    $ init --user vicky-jha
+  </h1>
+</div>
 
----
-
-## 💫 About Me
-
-- Practicing Data Structures and Algorithms in C++  
-- Building web applications with modern technologies  
-- Exploring backend development using Spring Boot  
-- Focused on writing clean, efficient, and maintainable code  
-
-I am interested in understanding systems end-to-end — from solving algorithmic problems to building scalable applications.
-
----
-
-## 🚀 What I'm Currently Doing
-
-- Solving DSA problems regularly  
-- Working on web development projects  
-- Learning backend development with Spring Boot  
-
----
-
-## 🛠 Tech Stack
-
-**Languages:**  
-C++, Java, JavaScript  
-
-**Frontend:**  
-HTML, CSS, React  
-
-**Backend:**  
-Spring Boot, Node.js (basic)  
-
-**Tools:**  
-Git, GitHub  
-
----
-
-## 📂 Featured Work
-
-- 🔹 Web Projects (React-based applications)  
-- 🔹 DSA Practice Repository (structured problem solving)  
-- 🔹 Backend APIs using Spring Boot  
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=vickyjha00&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vickyjha00&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/vicky-jha-10598b325/)  
-Email: work.vickyjha@gmail.com  
-
----
-
-⭐ Building consistently and improving every day.
+```typescript
+// System Initialization Matrix
+const engineer: CoreBackend = {
+  identity: "Vikash Jha",
+  discipline: "Computer Science & Engineering (B.Tech)",
+  specialization: "High-Concurrency Architectures & Scalable Server-Side Infrastructures",
+  operationalMetrics: "DSA Pattern Master // Event-Driven Microservices Architect"
+};
