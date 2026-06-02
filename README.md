@@ -202,13 +202,13 @@
 
 ## `$ git shortlog -sn`
 
-<div align="center">
+<!-- <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/VICKYJHA00/VICKYJHA00/output/github-contribution-grid-snake-dark.svg)
 
 > ⚠️ To enable the snake animation: go to **Settings → Actions → General** and enable workflow permissions. Then add the [platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo.
 
-</div>
+</div> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
