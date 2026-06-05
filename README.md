@@ -158,13 +158,13 @@
 
 ## `$ cat open_source_goals.md`
 
-```
+
 ✦ Contribute to Node.js ecosystem projects
 ✦ Submit PRs to developer tools I actually use
 ✦ Build and open-source backend utility libraries
 ✦ Help maintain community-driven projects
 ✦ Make backend development more accessible for students
-```
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
