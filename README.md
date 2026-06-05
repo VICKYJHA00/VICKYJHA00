@@ -241,7 +241,7 @@
 
 ## `$ echo $FUN_FACTS`
 
-```bash
+bash
 $ uptime
   → My terminal has more uptime than most people's Windows installs.
 
@@ -258,7 +258,7 @@ $ history | tail -3
 
 $ cat motto.txt
   → "First, make it work. Then, make it right. Then, make it fast."
-```
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
