@@ -177,12 +177,11 @@
 ## `$ git log --stat`
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VICKYJHA00&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&count_private=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VICKYJHA00&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" />
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VICKYJHA00&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&count_private=true&include_all_commits=true&cache_seconds=86400" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VICKYJHA00&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
 </div>
+
 
 <div align="center">
 
