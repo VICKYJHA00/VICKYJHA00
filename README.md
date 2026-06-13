@@ -224,7 +224,7 @@
 | Platform | Link |
 |:---------|:-----|
 | 🌐 Portfolio | [your-portfolio.dev](https://your-portfolio.dev) |
-| 💼 LinkedIn | [linkedin.com/in/vickyjha00](https://linkedin.com/in/vickyjha00) |
+| 💼 LinkedIn | [linkedin.com/in/vickyjha00](in/vickyjha7) |
 | 📧 Email | [your@email.com](mailto:your@email.com) |
 | 💻 LeetCode | [leetcode.com/VICKYJHA00](https://leetcode.com/u/Vicky76889/) |
 | 🐙 GitHub | [github.com/VICKYJHA00](https://github.com/VICKYJHA00) |
