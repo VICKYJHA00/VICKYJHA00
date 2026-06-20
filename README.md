@@ -45,7 +45,7 @@
   Role       : Backend Developer & Linux Enthusiast
   University : K.R. Mangalam University, Gurugram (B.Tech CSE, 2024–2028)
   Focus      : Building clean, scalable backend systems
-  OS         : Ubuntu (always)
+  OS         : cachy os / arch
   Editor     : Neovim / VS Code
   Terminal   : Kitty + Zsh + Powerlevel10k
   Status     : Open to internship opportunities 🚀
